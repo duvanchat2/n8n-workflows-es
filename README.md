@@ -1,8 +1,6 @@
-[🌐 Versión en español](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README.md) | [🌐 English Version](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README-ENGLISH.md)
 
 # 🧠 Colección de Flujos de Trabajo de n8n
 
-Este repositorio es un **fork** de la iniciativa original de [@Zie619](https://github.com/Zie619/n8n-workflows), quien recopiló flujos de trabajo (workflows) de n8n procedentes de diversas fuentes, tales como:
 
 - El sitio oficial de [n8n.io](https://n8n.io/) y su foro comunitario.  
 - Ejemplos compartidos públicamente en GitHub, blogs y otros sitios web.
@@ -27,7 +25,6 @@ Para importar cualquier flujo de trabajo en tu instancia de n8n, sigue estos pas
 4. Revisa y ajusta las credenciales o URLs de los webhooks según sea necesario.  
 5. Guarda y ejecuta el flujo de trabajo.
 6. [Si no encuentras el flujo que necesitas, puedes usar este Custom GPT para que te ayude a encontrarlo o a resolver cualquier problema que tengas con N8N.](https://chatgpt.com/g/g-6840a79abd348191966dd06abd7236c8-asistente-de-flujos-n8n).
-7. También puedes chatear con este repositorio usando [https://gitmcp.io/DragonJAR/n8n-workflows-es/chat](https://gitmcp.io/DragonJAR/n8n-workflows-es/chat)
 
 ## 🖥️ Servidor MCP (Model Context Protocol)
 
@@ -46,9 +43,6 @@ Si descubriste un workflow interesante o desarrollaste uno propio, ¡anímate a 
 
 Para proponer contribuciones, abre un pull request con tu nuevo workflow o mejora.
 
-## ⏯️ Manel aporta esta excelente explicación en video sobre el repositorio.
-
-[![Agradecimiento a Manelautomatic](https://i.imgur.com/fq4Ef0N.png)](https://www.youtube.com/watch?v=9haKti-edOE "Gracias a Manelautomatic por explicar en video el repositorio")
 
 ## ⚠️ Aviso
 
